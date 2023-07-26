@@ -1,4 +1,8 @@
 # Acronym_Phrasal_Verb_Graph
+![image](https://github.com/jackGetDev/Acronym_Phrasal_Verb_Graph/assets/57647314/20205ffc-53f7-41d8-b8cc-aa196cbfbaf1)
+![image](https://github.com/jackGetDev/Acronym_Phrasal_Verb_Graph/assets/57647314/eda50b27-85eb-450c-be97-ae3d28a99c0c)
+
+
 ![image](https://github.com/jackGetDev/Acronym_Phrasal_Verb_Graph/assets/57647314/6e171fe1-9426-4469-852b-f59051284339)
 ![image](https://github.com/jackGetDev/Acronym_Phrasal_Verb_Graph/assets/57647314/3eb8c541-082b-4f96-8d3e-70b9a54a051e)
 ![image](https://github.com/jackGetDev/Acronym_Phrasal_Verb_Graph/assets/57647314/a30f9f12-517f-46f4-b2a6-a883a185a982)
