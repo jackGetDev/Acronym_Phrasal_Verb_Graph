@@ -1,0 +1,15 @@
+[
+    {
+    "PARTICLE": "FOR",
+    "ABB": "SF",
+    "PV": "Stand For",
+    "CATEGORY": "SYMBOLISM",
+  },
+  {
+    "PARTICLE": "FOR",
+    "ABB": "SFO",
+    "PV": "Speak For Oneself",
+    "CATEGORY": "CONFIDENCE",
+  },
+   // ... continue
+]
